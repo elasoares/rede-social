@@ -1,0 +1,21 @@
+.textAreaContainer {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 16px;
+}
+
+.textAreaLabel {
+	font-size: 10px;
+	margin-bottom: 8px;
+}
+
+.textAreaInput {
+	padding: 5px;
+	font-size: 14px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+	min-height: 50px;
+	margin-bottom: 0px;
+}
+

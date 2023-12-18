@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Josefin+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Edu+TAS+Beginner:wght@500&family=Josefin+Sans:ital,wght@0,400;1,300;1,400&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+	color: #fefae0;
+}
+
+ul li{
+	list-style: none;
+}
+
+.bodyContainer{
+	font-family: 'Josefin Sans', sans-serif;
+	display: grid;
+	grid-template-columns: 100%;
+	grid-template-rows:  auto auto auto auto auto;
+	grid-template-areas: 
+		"containerHeader "
+		"containerMain"
+	"containerSection " 
+		"containerAside "
+		"containerFooter ";
+  min-height: 100vh;
+}
+
+/*  ======================================== */
+ .containerHeader{
+	width: 100vw;
+	grid-area: containerHeader;
+	display: grid;
+ 	grid-template-columns: 10% 80% 10%;
+	grid-template-rows: repeat(3, 25%);
+	justify-content: space-between;
+	align-items: center;
+	background-color: #5a189a;
+	 display: flex;
+	 padding: 0 25px ;
+} 
+
+
+.container-section{
+	grid-area: container-section;
+	 width: 100%;
+}
+
+
+.containerMain{
+	grid-area: containerMain;
+ width: 100%;
+}
+
+.containerAside{
+	grid-area: containerAside;
+	 width: 100%;
+}
+
+.containerFooter{
+	grid-area: containerFooter;
+	 width: 100%;
+}
+
+@media (min-width: 500px){
+	.bodyContainer{
+		font-family: 'Josefin Sans', sans-serif;
+		min-height: 100vh;
+		display: grid;
+		grid-template-columns: 25% 50% 25%;
+		grid-template-rows:  auto auto auto;
+		grid-template-areas: 
+			"containerHeader containerHeader containerHeader"
+			"containerSection containerMain containerAside"
+			"containerFooter containerFooter containerFooter";
+		min-height: 100vh;
+		margin: 0;
+		padding: 0;
+	}
+}

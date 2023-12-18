@@ -1,0 +1,35 @@
+.footerContainer {
+	 background-color: #5a189a;
+	color: #fefae0;
+	padding: 20px;
+	text-align: center;
+	min-width: 100vw;
+}
+.tituloFooter{
+	font-size: 15px;
+}
+
+.footerLink {
+	color: #fefae0;
+	text-decoration: none;
+	margin: 0 10px;
+	font-size: 10px;
+}
+
+.footerLink:hover {
+	text-decoration: underline;
+}
+
+@media (min-width: 600px){
+	.tituloFooter{
+		font-size: 20px;
+	}
+
+	.footerLink {
+		color: #fefae0;
+		text-decoration: none;
+		margin: 0 10px;
+		font-size: 15px;
+	}
+
+}
