@@ -23,7 +23,7 @@ language = "nodejs"
 
 [languages]
   [languages.javascript]
-  pattern = "**/{*.js,*.jsx,*.ts,*.tsx}"
+  pattern = "**/{*.js,*.jsx}"
     [languages.javascript.languageServer]
     start = "typescript-language-server --stdio"
 

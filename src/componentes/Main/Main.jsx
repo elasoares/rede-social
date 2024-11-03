@@ -7,8 +7,8 @@ import { CiShare2 } from "react-icons/ci";
 const posts = [
 	{
 		id: 1,
-		perfil: 'src/componentes/img/post1.jpg',
-		src: 'src/componentes/img/post1.jpg',
+		perfil: 'post1.jpg',
+		src: 'post1.jpg',
 		alt: 'personagem-avatar de Freepik',
 		nome: 'Alana Vale',
 		postado: 'Postado há 2 min..',
@@ -24,8 +24,8 @@ const posts = [
 	},
 	{
 		id: 2,
-		perfil: 'src/componentes/img/perfil2.jpg',
-		src: 'src/componentes/img/vista-do-adoravel-gato-3d.jpg',
+		perfil: 'perfil2.jpg',
+		src: 'vista-do-adoravel-gato-3d.jpg',
 		alt: 'personagem-avatar de Freepik',
 		nome: 'Joel Feitosa',
 		postado: 'Postado há 52 seg..',

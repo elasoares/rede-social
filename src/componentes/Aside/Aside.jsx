@@ -8,7 +8,7 @@ const adicionarAmigos = [
 		id: 1,
 		nome: "Iago Pereira",
 		amigos: 5,
-		src: "src/componentes/img/9720004.jpg",
+		src: "9720004.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />
@@ -17,7 +17,7 @@ const adicionarAmigos = [
 		id: 2,
 		nome: "Luke Bravenboer",
 		amigos: 2,
-		src: "src/componentes/img/9720009.jpg",
+		src: "9720009.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />
@@ -27,7 +27,7 @@ const adicionarAmigos = [
 		id: 3,
 		nome: "Pedro Uchoa",
 		amigos: 3,
-		src: "src/componentes/img/9720029.jpg",
+		src: "9720029.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />
@@ -36,7 +36,7 @@ const adicionarAmigos = [
 		id: 4,
 		nome: "Vó Isa",
 		amigos: 4,
-		src: "src/componentes/img/9720030.jpg",
+		src: "9720030.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />
@@ -45,7 +45,7 @@ const adicionarAmigos = [
 		id: 5,
 		nome: "Luke Bravenboer",
 		amigos: 2,
-		src: "src/componentes/img/9720009.jpg",
+		src: "9720009.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />
@@ -55,7 +55,7 @@ const adicionarAmigos = [
 		id: 6,
 		nome: "Pedro Uchoa",
 		amigos: 3,
-		src: "src/componentes/img/9720029.jpg",
+		src: "9720029.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />
@@ -64,7 +64,7 @@ const adicionarAmigos = [
 		id: 7,
 		nome: "Vó Isa",
 		amigos: 4,
-		src: "src/componentes/img/9720030.jpg",
+		src: "9720030.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />
@@ -73,7 +73,7 @@ const adicionarAmigos = [
 		id: 8,
 		nome: "Vó Isa",
 		amigos: 4,
-		src: "src/componentes/img/9720030.jpg",
+		src: "9720030.jpg",
 		alt: "personagem-avatar de Freepik",
 		add: <RiUserAddFill />,
 		close: <AiOutlineClose />

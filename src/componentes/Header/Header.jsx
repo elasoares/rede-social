@@ -6,27 +6,27 @@ import { useState } from 'react';
 const usersImg = [
 	{
 		id: 1,
-		src: "src/componentes/img/perfil1.jpg",
+		src: "perfil1.jpg",
 		alt: "personagem-avatar de Freepik",
 	},
 	{
 		id: 2,
-		src: "src/componentes/img/perfil2.jpg",
+		src: "perfil2.jpg",
 		alt: "personagem-avatar de Freepik",
 	},
 	{
 		id: 3,
-		src: "src/componentes/img/perfil3.jpg",
+		src: "perfil3.jpg",
 		alt: "personagem-avatar de Freepik",
 	},
 	{
 		id: 4,
-		src: "src/componentes/img/perfil4.jpg",
+		src: "perfil4.jpg",
 		alt: "personagem-avatar de Freepik",
 	},
 	{
 		id: 5,
-		src: "src/componentes/img/perfil5.jpg",
+		src: "perfil5.jpg",
 		alt: "personagem-avatar de Freepik",
 	},
 ];
@@ -65,7 +65,7 @@ export function Header({ className }) {
 				</div>
 
 				<div className={styles.meuAvatar}>
-					<Users className={styles.avatar} src="src/componentes/img/perfil6.jpg" alt="personagem-avatar de Freepik" />
+					<Users className={styles.avatar} src="perfil6.jpg" alt="personagem-avatar de Freepik" />
 				</div>
 			</header>
 		</>
