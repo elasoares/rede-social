@@ -19,9 +19,8 @@ A **Social Network Landing Page** é uma página inicial de rede social fictíci
 ## Funcionalidades
 
 - Visualização de posts básicos.
-- Interação com posts, como curtir e comentar.
 - Design responsivo para diferentes tamanhos de tela.
-- Uso de React hooks para gerenciar o estado dos componentes.
+- Uso básico hooks para gerenciar o estado dos componentes.
 
 ## Layout Responsivo
 
@@ -32,7 +31,7 @@ O layout foi construído com **CSS Flexbox** e **Grid Layout**, garantindo uma b
 - **React** - Biblioteca para construção de interfaces.
 - **CSS3** - Estilização da página.
 - **React Hooks** - Utilizados para gerenciar o estado e os efeitos dos componentes.
-- **Axios** (opcional) - Para integração com APIs, se houver alguma simulação de backend.
+
 
 ## Como Executar o Projeto
 
