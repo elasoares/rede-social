@@ -1,13 +1,50 @@
-## Running React on Repl.it
+# Social Network Landing Page
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Este projeto foi desenvolvido como parte de uma atividade acadêmica para criar uma página inicial de uma rede social usando React, com responsividade e interações básicas implementadas com hooks.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Índice
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Layout Responsivo](#layout-responsivo)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Melhorias Futuras](#melhorias-futuras)
+- [Autor](#autor)
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+## Sobre o Projeto
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+A **Social Network Landing Page** é uma página inicial de rede social fictícia desenvolvida em React. O foco do projeto é explorar conceitos de **responsividade** e **interatividade** com hooks, criando uma experiência de usuário moderna e dinâmica.
+
+## Funcionalidades
+
+- Visualização de posts básicos.
+- Interação com posts, como curtir e comentar.
+- Design responsivo para diferentes tamanhos de tela.
+- Uso de React hooks para gerenciar o estado dos componentes.
+
+## Layout Responsivo
+
+O layout foi construído com **CSS Flexbox** e **Grid Layout**, garantindo uma boa experiência de visualização tanto em dispositivos móveis quanto em desktops.
+
+## Tecnologias Utilizadas
+
+- **React** - Biblioteca para construção de interfaces.
+- **CSS3** - Estilização da página.
+- **React Hooks** - Utilizados para gerenciar o estado e os efeitos dos componentes.
+- **Axios** (opcional) - Para integração com APIs, se houver alguma simulação de backend.
+
+## Como Executar o Projeto
+
+Para rodar o projeto em sua máquina, siga estas etapas:
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone [[https://github.com/seu-usuario/nome-do-repositorio.git](https://elasoares.github.io/rede-social)](https://elasoares.github.io/rede-social)
+
+2. **Acessar a rede social:**
+
+    
+   ```bash
+   git clone [https://elasoares.github.io/rede-social](https://elasoares.github.io/rede-social/)
