@@ -45,4 +45,4 @@ Para rodar o projeto em sua máquina, siga estas etapas:
 2. **Acessar a rede social:**
 
     
-   git clone [Acessar o site que foi hospedado](https://elasoares.github.io/rede-social/)
+ [Acessar o site que foi hospedado](https://elasoares.github.io/rede-social/)
