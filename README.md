@@ -40,10 +40,9 @@ Para rodar o projeto em sua máquina, siga estas etapas:
 1. **Clone o repositório:**
 
    ```bash
-   git clone [Clonar site](https://github.com/elasoares/rede-social)
+   git clone (https://github.com/elasoares/rede-social)
 
 2. **Acessar a rede social:**
 
     
-   ```bash
    git clone [Acessar o site que foi hospedado](https://elasoares.github.io/rede-social/)
